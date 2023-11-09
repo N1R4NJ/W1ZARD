@@ -1,0 +1,13 @@
+#EVA{
+    color: aqua;
+    text-align: left;
+}
+    .box{
+    border: 2px dotted red;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-right: 50px;
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-right: 60%;
+}
